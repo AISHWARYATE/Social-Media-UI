@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+
+#sidebar{
+   width: 250px;
+   height: 700px;
+   background: silver;
+   top: 25px;
+   left: 0;
+   padding: 20px 30px;
+}
+.nav-link{
+    
+    list-style: none;
+   
+}
+.nav-link li{
+    padding: 10px 0;
+}
+a{
+    color: rgb(0, 0, 0);
+    padding: 10px 14px;
+}
+

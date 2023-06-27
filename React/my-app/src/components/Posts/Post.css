@@ -1,0 +1,13 @@
+
+img{
+    height: 300px;
+    width: 550px;
+}
+.box6{
+    height: 350px;
+    width: 600px;
+    margin-left: 300px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-left: 310px;
+    margin-top: 80px;
+}
